@@ -38,7 +38,7 @@ export default function Nav() {
           className="font-mono text-violet-400 font-semibold text-sm tracking-widest uppercase"
           aria-label="Duhita Pradhan: home"
         >
-          duh.dev
+          duhita.dev
         </a>
 
         <ul className="hidden md:flex items-center gap-8" role="list">
