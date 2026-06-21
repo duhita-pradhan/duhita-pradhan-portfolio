@@ -1,9 +1,0 @@
-{
-  "permissions": {
-    "allow": [
-      "Bash(Get-ChildItem -Recurse \"C:\\\\Users\\\\duhit\\\\Workspace\\\\portfolio\" -File)",
-      "Bash(Select-Object -ExpandProperty FullName)",
-      "Bash(npm install *)"
-    ]
-  }
-}
